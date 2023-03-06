@@ -1,0 +1,7 @@
+LoginUsers --> loginFunction is not defined...
+come back to this 
+
+CORS error in POSTS
+"Access-Control-Allow-Origin": "*",
+"Access-Control-Allow-Methods": "DELETE, POST, GET, OPTIONS",
+"Access-Control-Allow-Headers": "Content-Type, Authorization, X-Requested-With"
